@@ -1,0 +1,170 @@
+header{
+    padding-left: 10%;
+    background-color:#116D6E;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    font-size: 15px;   
+    font-family: sans-serif;
+    color: white;
+}
+nav
+{
+    padding-left: 5%;
+    padding-top: 2%;
+    padding-bottom: 2% ;
+}
+nav a{
+    text-decoration: none;
+    padding-left: 6%;
+    font-size: 20px;
+    font-family: sans-serif;
+    
+    
+}
+.element1
+{
+    padding: 1%;
+    border: 2px solid  #116D6E;
+    background-color:  #116D6E;
+    color: white;
+    border-radius: 10px;
+}
+.element1:hover{
+   background-color: #0E2954;
+}
+footer{
+    background-color: #E4E4E4;
+    padding-top: 5%;
+    padding-bottom: 10%;
+}
+.div3{
+    padding-left: 10%;
+    width: 15%;
+    border: 2px solid #E4E4E4;
+    
+    
+    
+}
+.div31 a
+{
+    text-decoration: none;
+    font-family: sans-serif;
+    color:#070A52;
+}
+
+.div3 h4{
+    font-size: 12px;
+    font-family: sans-serif;
+    font-style:unset;
+    color:#070A52;
+}
+.div3 h2{
+    font-family: sans-serif;
+    color: #070A52;
+}
+footer .div4{
+    width: 15%;
+    border: 2px solid #E4E4E4;
+   margin-left: 35%;
+   margin-top: -21%;
+  
+    font-family: sans-serif;
+    color:#070A52;
+    padding: 2%;
+}
+.div4 a{
+    text-decoration: none;
+}
+footer .div5{
+    width: 15%;
+    border: 2px solid #E4E4E4;
+   margin-left: 80%;
+   margin-top: -21%;
+  
+    font-family: sans-serif;
+    color:#070A52;
+    padding: 2%;
+}
+section .form1{
+    font-family: sans-serif;
+    width:50% ;
+    padding: 5%;
+    margin-left: 55px;
+}
+.form1 h1 {
+    padding-left: 4% ;
+    font-family: sans-serif;
+    font-size: 30px;
+
+}
+.form1 h3 {
+    padding-left: 4% ;
+    font-family: sans-serif;
+    font-size: 20px;
+
+}
+#name ,#email,#phno
+{
+    width: 65%;
+    height: 30px;
+    font-size: 15px;
+    font-family: sans-serif;
+    
+}
+#msg
+{
+    width: 65%;
+    height: 90px;
+    font-size: 20px;
+    font-family: sans-serif;
+}
+.form1 button{
+    width: 25px;
+    padding: 5px 205px 5px 145px;
+    text-decoration: none;
+    background-color: blue;
+    border: 2px solid blue;
+    border-radius: 5px;
+    color: white;
+    text-align: center;
+
+}
+.form2 pre{
+    font-family: sans-serif;
+    font-size: 20px;
+    border: 2px solid #116D6E;
+    background-color: #116D6E;
+    width: 30%;
+    margin-left: 55%;
+    margin-top:-39% ;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    color: white;
+
+}
+.Map{
+    padding-left: 25%;
+}
+
+
+
+
+
+footer .div6{
+    width: 20%;
+    border: 2px solid #E4E4E4;
+   margin-left: 49%;
+   margin-top: -15%;
+ 
+    font-family: sans-serif;
+    color:#070A52;
+    
+}
+.div6 h2{
+    text-align: center;
+}
+.div6 p{
+    text-align: center;
+    font-size: 15px;
+    font-family: sans-serif;
+}
